@@ -2,7 +2,8 @@
 	//@name StickScroller
 	//@author Eder Duran @pelitosduran & Leo Gutierrez @leowolfdragon
 	//@version 1.0
-
+	
+	//configuracion:
 	StickScrollTop = 198; //Definimos en que momento empieza el stick fixed	
 	StickScrollDown = 250; // Definimos cuando deja de ser stick al final del documento
 	StickElement = ".aside"; //elemto que hara stick

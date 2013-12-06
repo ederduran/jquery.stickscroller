@@ -19,7 +19,7 @@
         },
         "licenses": [
                 {
-                        "type": "GNU GENERAL PUBLIC LICENSE",
+                        "type": "GPL v2",
                         "url": "https://raw.github.com/pelitosduran/jquery.stickscroller/master/LICENSE"
                 }
         ],
