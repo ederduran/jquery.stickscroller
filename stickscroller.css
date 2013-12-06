@@ -1,0 +1,19 @@
+.stickit {
+position: fixed;
+top: 0;
+width: 213px!important;
+margin-left: 728px;
+}
+
+.stickit-end {
+bottom: 60px;
+position: absolute;
+right: 0;
+}
+
+@media (min-width: 992px){
+	
+}
+@media (min-width: 768px){
+
+}

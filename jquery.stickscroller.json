@@ -1,0 +1,33 @@
+{
+        "name": "StickScroller",
+        "title": "StickScroller",
+        "description": "Stick Your Sidebar or anything.",
+        "keywords": [
+                "stick",
+                "aside",
+                "sidebar",
+                "sticky",
+                "scroll",
+                "affix",
+
+        ],
+        "version": "1.0",
+        "author": {
+                "name": "Eder Duran",
+                "url": "https://ederduran.com",
+                "twitter": "https://twitter.com/pelitosduran"
+        },
+        "licenses": [
+                {
+                        "type": "GNU GENERAL PUBLIC LICENSE",
+                        "url": "https://raw.github.com/pelitosduran/jquery.stickscroller/master/LICENSE"
+                }
+        ],
+        "bugs": "https://github.com/pelitosduran/jquery.stickscroller/issues",
+        "homepage": "https://github.com/pelitosduran/jquery.stickscroller",
+        "docs": "https://github.com/pelitosduran/jquery.stickscroller",
+        "example": "https://ederduran.com",
+        "dependencies": {
+                "jquery": ">=1.8"
+        }
+}
