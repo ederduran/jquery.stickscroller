@@ -38,5 +38,13 @@ StickScroller = function(){
 	       $(StickElement).removeClass(ClassToAddOnBottom);
 	       $(StickElement).addClass(ClassToAddStick);
 	   }
+	   
+	   
+	   
+	   
 	});
+	
+	
+	
+	
 };
