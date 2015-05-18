@@ -29,6 +29,9 @@ StickScroller = function(){
 	    else if ($(this).scrollTop() < StickScrollTop)
 	    {
 	    	$(StickElement).removeClass(ClassToAddStick);
+	    	
+	    	
+	    	
 	    }
 	    if($(window).scrollTop() + $(window).height() >= $(document).height() - StickScrollDown) {
 	       $(StickElement).removeClass(ClassToAddStick);
